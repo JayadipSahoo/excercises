@@ -1,0 +1,3 @@
+changed exec to print so that its print decoded flag :)
+flag   
+     picoCTF{175_chr157m45_85f5d0ac}
