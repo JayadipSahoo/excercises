@@ -1,0 +1,3 @@
+used hex to ascii converter 
+0x70 ---> p
+picoCTF{p}
