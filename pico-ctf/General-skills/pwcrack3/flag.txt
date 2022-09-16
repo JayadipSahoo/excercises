@@ -1,0 +1,3 @@
+used all passwords given in the script 
+4b17 worked
+picoCTF{m45h_fl1ng1ng_2b072a90}
