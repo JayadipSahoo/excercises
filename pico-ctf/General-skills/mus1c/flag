@@ -1,0 +1,3 @@
+As the hint suggests, we are looking at the esoteric language of Rockstar. Simply compile it on their online compiler and convert the output to ASCII to get the flag.
+compikler--> codewithrockstar.com/online
+    picoCTF{rrrocknrn0113r}
