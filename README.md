@@ -1,2 +1,2 @@
-# excercises
-// A  bunch of random excercises including programming , maths and others !
+# excercies
+// A bunch of random excercies including programming , maths and others !
